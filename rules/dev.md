@@ -12,4 +12,6 @@
 - هرگونه رول ابیوز نیز باعث وارن گرفتن شما می شود 
 
 
-<h3 align="center">آپدیت : 2022/05/05 | رول هایی که باید تابعه این قوانین باشند : Developer /  Configure / Coder</h3>
+<h3 align="center"> رول هایی که باید تابعه این قوانین باشند : Developer /  Configure / Coder</h3>
+<h3 align="center">آپدیت : 2022/05/05 </h3>
+ 
