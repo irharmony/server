@@ -1,4 +1,4 @@
-:flag_us: En
+<h3 align="center">English</h3>
 1. No spamming of comments
 
 2. You may post images, videos, and gifs in chat if they are not NSFW.
@@ -20,7 +20,10 @@
 10. Don't impersonate other users, this includes bots. Doing so will result in a kick from the server.
 
 11. You must abide by the rules noted in Discord's Terms of Service and Community Guidelines.
-:flag_ir: Fa
+
+<h1></h1>
+
+<h3 align="center"> فارسی </h3>
 1. اسپم کردن (شامل همه چیز) ممنوع میباشد
 
 2. شما حق پست کردن عکس، ویدیو و هر محتوایی در chat را دارید بجز محتوای بزرگسال
